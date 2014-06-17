@@ -2,9 +2,9 @@
 /*! 
     @file     mcp9800.h
     @author   Przemek Sadowski SQ9NJE
-	@license  BSD (see license.txt)
+	  @license  BSD (see license.txt)
 	
-	@section  HISTORY
+	  @section  HISTORY
 
     v1.0  - First release
 */
